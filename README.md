@@ -6,13 +6,15 @@
 
 ###  Sobre mí :
 
--  Soy de Argentina
 
--  En la actualidad, me encuentro estudiando programación full stack 
 
--  Para contactarte conmigo --> **juansincich.design@gmail.com**
+Hace un año, me adentré en el apasionante mundo de las IT al estudiar Diseño UX-UI, una experiencia que resultó sumamente divertida. Esta primera incursión me impulsó a seguir explorando nuevas disciplinas afines. Tras completar con éxito mis estudios iniciales y avanzados en UX-UI, decidí embarcarme en el desarrollo web, lo que una vez más me sorprendió gratamente. En esta etapa, tuve la oportunidad de descubrir y aprender sobre Html, Css y Javascript.
 
--  Me gustan los video juegos 🎮 preprarar cocteles 🍸  ver bandas y djs en vivo 🎸🎷
+Actualmente, me encuentro estudiando programación y trabajando en proyectos personales para potenciar mis habilidades y ampliar mis conocimientos.
+
+Entre mis fortalezas, destaco mi insaciable motivación para aprender y mi deseo constante de mejorar en esta disciplina en continua evolución. Me apasiona trabajar en equipo y colaborar con otros profesionales para crear soluciones innovadoras, siempre manteniendo la mira en los objetivos.
+
+Si estás en busca de un diseñador o programador junior comprometido, con ansias de crecer y aprender, no dudes en contactarme a través de LinkedIn. ¡Me encantaría formar parte de un equipo de trabajo que comparta mi pasión y compromiso!
   
 <div align="left">
     <h3>⚙ Lenguajes y herramientas:</h3>
@@ -38,6 +40,8 @@
         <img src="https://github.com/EduMMorenolp/EduMMorenolp/blob/main/iconANB.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       </div>
 </div>
+
+
 
 <!--
 **JuanSincich/JuanSincich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
