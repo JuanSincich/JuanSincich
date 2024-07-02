@@ -1,9 +1,9 @@
 <div id="header" align="center">
     <img src=https://media.giphy.com/media/YzEs1QSmn9HlzNeO7u/giphy.gif width="200" height="200"/>
     <h1 align="center">Hola 👋, bienvenidx a mi perfil de Github</h1>
-    <h3 align="center">Mi nombre es Juan, soy diseñador UX-UI y desarrollador web</h3>
+    <h2 align="center">Mi nombre es Juan, soy diseñador UX-UI y desarrollador web</h2>
 </div>
-<h5>  </h5>  
+<br/>     
 <div align="left">
     <h3>⚙ Lenguajes y herramientas:</h3>
     <div>
