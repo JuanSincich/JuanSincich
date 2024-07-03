@@ -7,14 +7,14 @@
 <div align="left">
     <h3>⚙ Lenguajes y herramientas:</h3>
     <div>
-        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/herramientas%20y%20lenguajes.png" title="HTML5" alt="HTML" height="50"/>&nbsp;
+        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/toolAndLanguajes.png" title="HTML5" alt="HTML" height="50"/>&nbsp;
       </div>
 </div>
 <br />
 <div align="left">
     <h3>⚙ IDE utilizados:</h3>
     <div> 
-        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/ides_github.png" title="Git" **alt="Git" height="50"/>
+        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/idesGithub.png" title="Git" **alt="Git" height="50"/>
       </div>
 </div>
 <br />
