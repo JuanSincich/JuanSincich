@@ -1,16 +1,25 @@
 <div id="header" align="center">
     <img src=https://media.giphy.com/media/YzEs1QSmn9HlzNeO7u/giphy.gif width="200" height="200"/>
     <h1 align="center">Hola 👋, bienvenidx a mi perfil de Github</h1>
-    <h3 align="center">Mi nombre es Juan, soy desarrollador web</h3>
+    <h3 align="center" >💻 Mi nombre es Juan, Desarrollador Fullstack con experiencia en stack MERN, orientado a crear interfaces limpias, accesibles y centradas en el usuario.</h3>
 </div>
-<br />
-<div align="left">
-    <h3>⚙ Lenguajes y herramientas:</h3>
+<br>
+<div align="left" >
+    <h2 align="center">⚙ Lenguajes y herramientas:</h2>
     <div>
-        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/toolAndLanguajes.png" title="HTML5" alt="HTML" height="50"/>&nbsp;
-      </div>
+        <img src=https://skillicons.dev/icons?i=html height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=css height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=sass height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=js height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=ts height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=bootstrap height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=react height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=vite height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=materialui height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=tailwind height="50"/>&nbsp;
+        
 </div>
-<br />
+<h2 align="center"></h3>
 <div align="left">
     <h3>⚙ IDE utilizados:</h3>
     <div> 
