@@ -25,20 +25,26 @@
         <p>Backend</p>
         <img src=https://skillicons.dev/icons?i=nodejs height="50"/>&nbsp;
         <img src=https://skillicons.dev/icons?i=express height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=npm height="50"/>&nbsp;
         <img src=https://skillicons.dev/icons?i=mongodb height="50"/>&nbsp;
         <img src=https://skillicons.dev/icons?i=postman height="50"/>&nbsp;
         <img src=https://skillicons.dev/icons?i=java height="50"/>&nbsp;
         <img src=https://skillicons.dev/icons?i=mysql height="50"/>&nbsp;
-<h2 align="center"></h3>
-<div align="left">
-    <h3>⚙ IDE utilizados:</h3>
-    <div> 
-        <img src="https://github.com/JuanSincich/JuanSincich/blob/main/idesGithub.png" title="Git" **alt="Git" height="50"/>
-      </div>
+    </div>
+    <div align="center">
+        <p>Herramientas</p>
+        <img src=https://skillicons.dev/icons?i=vscode height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=git height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=github height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=figma height="50"/>&nbsp;
+        <img src=https://skillicons.dev/icons?i=discord height="50"/>&nbsp;
+    </div>
+   <h2></h2>
 </div>
-<br />
-<h5>  </h5>
-<h3>⚙ Sobre mí</h3>
+<div align="center">
+    <h3>⚙ Sobre mí</h3>
+      <br />  
+</div>
 <p>Mi interés en las IT comenzó con el Diseño UX-UI, una experiencia gratificante que me impulsó hacia el fascinante mundo del desarrollo web, donde he aprendido a trabajar con HTML, CSS, JavaScript, React, Git y GitHub, entre otras herramientas.</p>
 <p>En paralelo, completé un curso intensivo de 10 meses en Backend especializado en Java. Actualmente, mi enfoque principal está en fortalecer mis habilidades en desarrollo web, dejando el backend en segundo plano.</p>
 
